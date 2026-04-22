@@ -1,6 +1,6 @@
 #### Prazer, meu nome é Pedro!
 
-🎓 Estudante de Sistemas de Informação 
+🎓 Formado em Sistemas de Informação 
 
 💻 Desenvolvedor Back-end
 
